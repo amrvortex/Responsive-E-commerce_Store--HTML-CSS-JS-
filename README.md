@@ -20,8 +20,7 @@ E-commerce store for selling shirts, Responsive for various screen sizes
 ![Screenshot 2022-07-18 014712](https://user-images.githubusercontent.com/61240683/179430034-381c592d-16cc-47e1-982c-3ea8f7b00890.png)
 
 
-#![Screenshot 2022-07-18 014829](https://user-images.githubusercontent.com/61240683/179430159-fb150fca-b089-438f-ac3c-268c50ff6774.png)
- Blogs Page
+#Blogs Page
 ![Screenshot 2022-07-18 014724](https://user-images.githubusercontent.com/61240683/179430102-6f56c465-039a-4bcc-a88e-b5d648ba08cd.png)
 ![Screenshot 2022-07-18 014737](https://user-images.githubusercontent.com/61240683/179430106-b7e1c9c9-8b65-4fd4-9784-60e9a9d27a6f.png)
 ![Screenshot 2022-07-18 014749](https://user-images.githubusercontent.com/61240683/179430112-2ea91acd-6dab-45f9-ad8d-0f7b31c7d423.png)
